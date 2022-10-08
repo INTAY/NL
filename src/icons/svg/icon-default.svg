@@ -1,0 +1,19 @@
+<svg id="icon-default" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #7fcf03;
+        fill-opacity: 0;
+        stroke: #c1c9cc;
+        stroke-linejoin: round;
+        stroke-width: 1px;
+      }
+
+      .cls-2 {
+        fill: #c1c9cc;
+      }
+    </style>
+  </defs>
+  <circle id="椭圆_6_副本_6" data-name="椭圆 6 副本 6" class="cls-1" cx="8.5" cy="8.5" r="6"/>
+  <circle id="椭圆_6_副本_7" data-name="椭圆 6 副本 7" class="cls-2" cx="8.5" cy="8.5" r="5"/>
+</svg>

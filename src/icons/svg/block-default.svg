@@ -1,0 +1,23 @@
+<svg id="组_2" data-name="组 2" xmlns="http://www.w3.org/2000/svg" width="23" height="63" viewBox="0 0 23 63">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #c1c9cc;
+      }
+
+      .cls-1 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke: #c1c9cc;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <path id="矩形_1" data-name="矩形 1" class="cls-1" d="M1778,346h11l-5.3,42Z" transform="translate(-1772 -346)"/>
+  <circle id="椭圆_7" data-name="椭圆 7" class="cls-2" cx="11.5" cy="51.5" r="8.5"/>
+  <circle id="椭圆_7_副本" data-name="椭圆 7 副本" class="cls-3" cx="11.5" cy="51.5" r="6.5"/>
+</svg>

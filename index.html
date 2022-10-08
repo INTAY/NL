@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>诺领科技</title>
+    <!-- 判断浏览器版本低于, IE10跳转到浏览器升级提示页面 -->
+    <script src="./static/config.js"></script>
+    <script src="./static/IEVersion.js"></script>
+    <script>
+      var IEVersion = getIEVersion();
+      if(IEVersion <= 10 ) {
+        // var newUrl = location.protocol + '//' + location.host + '/static/IEUpdate/index.html';
+        location.href =  '/static/IEUpdate/index.html';
+      } 
+    </script>
+    <link rel="stylesheet" href="./static/loadStyle.css">
+  </head>
+  <body>
+    <div id="app">
+      <!-- 首屏加载动画 -->
+      <div id="loader-wrapper">
+        <div id="loader"></div>
+        <div class="loader-section section-left"></div>
+        <div class="loader-section section-right"></div>
+        <div class="load_title">正在加载...</div>
+      </div>
+      <!-- 首屏加载动画 end -->
+    </div>
+    <!-- built files will be auto injected -->
+    
+  </body>
+</html>
